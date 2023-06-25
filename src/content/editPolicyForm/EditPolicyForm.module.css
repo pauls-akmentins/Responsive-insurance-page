@@ -1,0 +1,28 @@
+.editPolicyContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #f6f3f0;
+  width: 100%;
+}
+
+.editPolicyHeader {
+  height: 72px;
+  background-color: #f1ece8;
+}
+
+.editPolicyText {
+  margin: 0;
+  padding: 28px 40px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  margin: 24px 40px;
+}
+
+.editModalFooter {
+  text-align: right;
+}

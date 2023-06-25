@@ -1,0 +1,32 @@
+.staleCardContainer {
+  display: flex;
+  flex-direction: column;
+  background-color: #faf9f7;
+  justify-content: center;
+  align-items: center;
+}
+
+.staleCardTitle {
+  font-weight: 300;
+  font-size: 24px;
+  margin: 0 24px;
+  text-align: center;
+}
+
+.buyInsuranceContainer {
+  display: flex;
+  align-items: center;
+  margin-top: 38px;
+}
+
+.buyInsuranceText {
+  margin: 0;
+  font-weight: 400;
+  font-size: 14px;
+  color: #0054f0;
+  cursor: pointer;
+}
+
+.arrowRightIcon {
+  cursor: pointer;
+}

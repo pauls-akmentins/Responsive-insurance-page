@@ -1,0 +1,15 @@
+.contentContainer {
+  height: 100%;
+  background-color: #ddd8d4;
+  padding: 50px 0;
+}
+
+.contentWrapper {
+  margin: 0 212px;
+}
+
+@media screen and (max-width: 896px) {
+  .contentWrapper {
+    margin: 0 50px;
+  }
+}

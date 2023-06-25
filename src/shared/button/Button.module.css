@@ -1,0 +1,30 @@
+.btn {
+  width: 81px;
+  height: 48px;
+  border: 2px solid #0054f0;
+  font-weight: 400;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.applyRightMargin {
+  margin-right: 16px;
+}
+
+.btn-primary {
+  color: #0054f0;
+}
+
+.btn-primary:active {
+  border-color: #94b9ff;
+  color: #94b9ff;
+}
+
+.btn-secondary {
+  background-color: #0054f0;
+  color: #faf9f7;
+}
+
+.btn-secondary:active {
+  background-color: #2e77ff;
+}

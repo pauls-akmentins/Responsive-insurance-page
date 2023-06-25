@@ -1,0 +1,17 @@
+.pageIndicationContainer {
+  display: flex;
+  align-items: center;
+  margin-bottom: 36px;
+}
+
+.pageName {
+  cursor: pointer;
+}
+
+.arrowRightIcon {
+  margin: 0 8px;
+}
+
+.lastPageName {
+  font-weight: 700;
+}

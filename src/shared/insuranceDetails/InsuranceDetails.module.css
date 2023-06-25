@@ -1,0 +1,16 @@
+.insuranceDetailsContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.insuranceDetailsTitle {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.insuranceDetails {
+  margin: 8px 0 0;
+  font-size: 16px;
+  font-weight: 400;
+}

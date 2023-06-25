@@ -1,0 +1,41 @@
+.inputContainer {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 28px;
+  position: relative;
+}
+
+.inputLabel {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.inputField {
+  height: 48px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  padding: 0 12px;
+  border: 1px solid #6e625e;
+}
+
+.inputField:focus {
+  outline: none;
+}
+
+.labelInvalid {
+  color: red;
+}
+
+.inputInvalid {
+  border: 1px solid red;
+}
+
+.invalidMessage {
+  color: red;
+  position: absolute;
+  top: 70px;
+  margin: 0;
+  font-size: 14px;
+}

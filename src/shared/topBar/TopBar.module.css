@@ -1,0 +1,24 @@
+.topBarWrapper {
+  display: flex;
+  align-items: center;
+  padding: 15px 0;
+  padding-right: 212px;
+  padding-left: 212px;
+  background-color: #faf9f7;
+}
+
+.topBarPolicies {
+  margin-left: 24px;
+  font-size: 16px;
+}
+
+.ifLogoIcon {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 896px) {
+  .topBarWrapper {
+    padding-right: 50px;
+    padding-left: 50px;
+  }
+}
